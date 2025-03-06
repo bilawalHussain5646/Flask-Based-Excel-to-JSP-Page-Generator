@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Flask-based web application that processes Excel files to generate structured JSP Page content, primarily for Adobe Experience Manager (AEM) integration. The application supports English and Arabic content and dynamically structures JSP Page based on predefined Excel templates.
+This project is a Flask-based web application that processes Excel files to generate structured JSP Page content, primarily for Adobe Experience Manager (LG CMS) integration. The application supports English and Arabic content and dynamically structures JSP Page based on predefined Excel templates.
 
 ## Features
 
@@ -35,7 +35,7 @@ This project is a Flask-based web application that processes Excel files to gene
         |
         v
 +-------------------+
-|  AEM Integration |
+|  LG CMS Integration |
 |  Deploy Content  |
 +-------------------+
 ```
@@ -76,7 +76,7 @@ This project is a Flask-based web application that processes Excel files to gene
 1. Open the web application.
 2. Upload an Excel file with the predefined structure.
 3. The system processes the data and generates an JSP Page file.
-4. Download the generated JSP Page file for AEM integration.
+4. Download the generated JSP Page file for LG CMS integration.
 
 ## File Structure
 
